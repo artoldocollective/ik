@@ -369,10 +369,6 @@ color: #fff;
    Additional CSS:
  ========================================================================== */
 
-.gumroad .cart-button {
-    display: none !important;
-}
-
 html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
